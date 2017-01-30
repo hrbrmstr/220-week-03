@@ -129,7 +129,7 @@ filter(pipelines, IYEAR=="2013") %>%
   ggthemes::theme_map()
 ```
 
-### By how significant the incident was (2014)
+### By how Significant the incident was (2014)
 
 ```{r where_2014}
 filter(pipelines, IYEAR=="2014") %>% 
